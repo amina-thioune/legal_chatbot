@@ -1,0 +1,18 @@
+streamlit
+numpy
+langchain
+langchain-community
+langchain-text-splitters
+langchain_experimental
+langchain-ai21
+transformers 
+sentence-transformers 
+faiss-cpu pypdf
+sentencepiece
+sacremoses
+nltk
+spacy
+en_core_web_sm
+accelerate 
+bitsandbytes
+bert-extractive-summarizer
