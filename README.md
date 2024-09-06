@@ -39,7 +39,7 @@ Vous n'avez qu'à sélectionner l'un de ces modèles et l'application générera
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/amina-thioune/legal_chatbot/application.git
+   git clone  git@github.com:amina-thioune/legal_chatbot.git
    ```
 2. Installez les dépendances :
    ```bash
@@ -58,7 +58,7 @@ Une fois l'application démarrée, vous serez invité à choisir entre deux opti
 
 
 
-## Organisation des Répertoires
+## Autres
 
 - Le répertoire `inferences` contient les scripts permettant d'interagir avec les modèles.
 - Le répertoire `notebooks` regroupe les codes d'évaluation des modèles, l'implémentation de la méthode **RAG**, ainsi qu'un fichier détaillant les différentes techniques de découpage (**splitter**) et d'intégration (**embedder**).
